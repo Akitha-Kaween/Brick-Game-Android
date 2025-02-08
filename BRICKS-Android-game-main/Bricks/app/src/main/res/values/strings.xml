@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brick Breaker</string>
+    <string name="your_points">Your Points:</string>
+    <string name="highest_score">Highest Score:</string>
+    <string name="trophy_icon_description">Trophy icon for highest score</string>
+
+
+</resources>
